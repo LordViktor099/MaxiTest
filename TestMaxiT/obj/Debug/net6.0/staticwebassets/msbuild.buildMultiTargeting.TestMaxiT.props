@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TestMaxiT.props" />
+</Project>
